@@ -9,13 +9,13 @@ Using **Power BI**, the data is transformed into an **interactive and insightful
 ## 📊 **Features**
 
 - **Membership Analysis**:  
-  Track active members, new sign-ups, cancellations, and renewal rates.  
-- **Revenue Insights**:  
-  Monitor monthly revenue, membership category-wise contributions, and financial growth trends.  
+  Track total memebers in gym.  
+- **Count of Members by Workout type**:  
+  insights of members associated with different workout type.  
 - **Demographics**:  
-  Explore member distribution by age, gender, and location.  
+  Explore member distribution by age, gender and Experience level.  
 - **Usage Trends**:  
-  Analyze peak hours, class participation, and member activity patterns.  
+  Analyze BMI status, workout type participation, and Session duration by age.  
 
 ---
 
