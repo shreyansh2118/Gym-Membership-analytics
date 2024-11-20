@@ -5,6 +5,8 @@ This repository showcases a **data-driven approach** to understanding and analyz
 Using **Power BI**, the data is transformed into an **interactive and insightful dashboard** that helps visualize key metrics and trends.  
 
 ---
+![Screenshot 2024-11-20 151054](https://github.com/user-attachments/assets/f67bc0c8-fb35-4944-a0ac-cfe2b34b06c8)
+---
 
 ## 📊 **Features**
 
